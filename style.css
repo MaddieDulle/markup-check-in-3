@@ -1,1 +1,6 @@
 /* This is a style sheet for the resume */
+
+/* Heading Style Starts Here */
+    h1 {
+        text-align: center;
+    }
