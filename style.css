@@ -3,4 +3,36 @@
 /* Heading Style Starts Here */
     h1 {
         text-align: center;
+        font-family: fantasy; 
+        background-color: rgb(229, 170, 150);
+        line-height: 3.5;
+    }
+    h2 {
+        background-color: rgb(229, 170, 150);
+        font-family: fantasy;
+        line-height: 2;
+        margin-bottom: 1%;
+        margin-top: 5%;
+    }
+
+    h3 {
+        text-decoration: underline;
+        margin-top: 7%;
+    }
+
+/* Specific Line Style Starts Here */
+    .number {
+        text-align: center;
+    }
+
+    .email {
+        text-align: center;
+    }
+
+    .com {
+        text-align: center;
+    }
+
+    p {
+        line-height: .5;
     }
